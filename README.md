@@ -26,9 +26,14 @@ Alongside engineering, I've worked as a **freelance video editor since 2021** wi
 **Data & machine learning**
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=dark" alt="python,mysql,pandas,numpy,sklearn,matplotlib,powerbi">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,sklearn&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn&perline=10&theme=dark" alt="python,mysql,sklearn">
 </picture>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Web & tools**
 
@@ -50,9 +55,9 @@ Also: DaVinci Resolve · Google Colab · SQL · supervised and unsupervised lear
 
 | Project | What it does | Stack |
 |---|---|---|
-| 💉 [**VaxCluster**](https://github.com/djalilhalisse/VaxCluster) | Web app that collects patient data and predicts the probability of COVID-19 vaccine side effects using three clustering models (K-Means, GMM, agglomerative). Available in English, French and Arabic. | Python, scikit-learn, PHP, MySQL, JavaScript |
+| 💉 [**VaxCluster**](https://github.com/djalilhalisse/covid-prediction) | Web app that collects patient data and predicts the probability of COVID-19 vaccine side effects using three clustering models (K-Means, GMM, agglomerative). Available in English, French and Arabic. | Python, scikit-learn, PHP, MySQL, JavaScript |
 | 🩺 [**Patient Records**](https://github.com/djalilhalisse/Patient-Records-App) | Windows desktop app for vaccination data collection with validation, search, dashboard and CSV export, in use at EPSP Annaba. | Python, PyQt5 |
-| 📅 [**Sahti**](https://github.com/djalilhalisse/Sahti_v2) | Medical appointment booking platform with a doctor dashboard and French/Arabic support. | PHP, MySQL |
+| 📅 [**Sahti**](https://github.com/djalilhalisse/sahti) | Medical appointment booking platform with a doctor dashboard and French/Arabic support. | PHP, MySQL |
 | 📊 [**Vaccine side-effects analysis**](https://colab.research.google.com/drive/1JezSRXlb3skDY42SC8nwIc_sRXWtBl_b?usp=sharing) | Exploratory analysis and clustering of 372 patient records, with PCA and dendrogram visualisations. | Python, Pandas, scikit-learn, Seaborn |
 
 ## 🎓 Education
@@ -68,5 +73,5 @@ Arabic (native) · English (fluent) · French (intermediate)
 
 I'm open to opportunities in **machine learning, data analysis and software development**, as well as video editing work.
 
-🌐 **Portfolio:** [Portfolio](https://djalilhalisse.github.io/portfolio/)
+🌐 **Portfolio:** *add your portfolio link here*
 💼 [LinkedIn](https://www.linkedin.com/in/abdeldjalil-halisse) · ✉️ [djalilhalisse@gmail.com](mailto:djalilhalisse@gmail.com)
