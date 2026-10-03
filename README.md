@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdeldjalil-halisse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:djalilhalisse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.fiverr.com/s/NeN1Y6p"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+  <a href="https://www.linkedin.com/in/abdeldjalil-halisse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:djalilhalisse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.fiverr.com/s/NeN1Y6p"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </p>
 
 ---
@@ -24,48 +24,27 @@ Alongside engineering, I've worked as a **freelance video editor since 2021** wi
 ## 🛠️ Skills
 
 **Data & machine learning**
- 
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=light">
   <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=dark" alt="python,mysql,pandas,numpy,sklearn,matplotlib,powerbi">
 </picture>
+
 **Web & tools**
- 
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,html,css,js,qt,git,github,vscode&perline=10&theme=light">
   <img src="https://skillicons.dev/icons?i=php,html,css,js,qt,git,github,vscode&perline=10&theme=dark" alt="php,html,css,js,qt,git,github,vscode">
 </picture>
+
 **Video & design**
- 
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pr,ae,ps,au&perline=10&theme=light">
   <img src="https://skillicons.dev/icons?i=pr,ae,ps,au&perline=10&theme=dark" alt="pr,ae,ps,au">
 </picture>
 
-**Languages & data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Web & tools**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
-**Machine learning:** supervised and unsupervised learning (K-Means, Gaussian Mixture Models, agglomerative clustering), data cleaning and preprocessing, data analysis and management.
-
-**Video:** Adobe Premiere Pro · After Effects · DaVinci Resolve · Photoshop · Audition
+Also: DaVinci Resolve · Google Colab · SQL · supervised and unsupervised learning (K-Means, Gaussian Mixture Models, agglomerative clustering) · data cleaning and preprocessing · data analysis and management
 
 ## 🚀 Featured projects
 
@@ -83,7 +62,7 @@ Alongside engineering, I've worked as a **freelance video editor since 2021** wi
 
 ## 🌍 Languages
 
-Arabic (native) · English (fluent) · French (fluent)
+Arabic (native) · English (fluent) · French (intermediate)
 
 ## 📫 Let's connect
 
