@@ -24,7 +24,7 @@ Alongside engineering, I've worked as a **freelance video editor since 2021** wi
 ## 🛠️ Skills
 
 **Languages & data**
-
+<picture> <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=light"> <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=dark" alt="python,mysql,pandas,numpy,sklearn,matplotlib,powerbi"> </picture>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
