@@ -55,9 +55,9 @@ Also: DaVinci Resolve · Google Colab · SQL · supervised and unsupervised lear
 
 | Project | What it does | Stack |
 |---|---|---|
-| 💉 [**VaxCluster**](https://github.com/djalilhalisse/covid-prediction) | Web app that collects patient data and predicts the probability of COVID-19 vaccine side effects using three clustering models (K-Means, GMM, agglomerative). Available in English, French and Arabic. | Python, scikit-learn, PHP, MySQL, JavaScript |
+| 💉 [**VaxCluster**](https://github.com/djalilhalisse/VaxCluster) | Web app that collects patient data and predicts the probability of COVID-19 vaccine side effects using three clustering models (K-Means, GMM, agglomerative). Available in English, French and Arabic. | Python, scikit-learn, PHP, MySQL, JavaScript |
 | 🩺 [**Patient Records**](https://github.com/djalilhalisse/Patient-Records-App) | Windows desktop app for vaccination data collection with validation, search, dashboard and CSV export, in use at EPSP Annaba. | Python, PyQt5 |
-| 📅 [**Sahti**](https://github.com/djalilhalisse/sahti) | Medical appointment booking platform with a doctor dashboard and French/Arabic support. | PHP, MySQL |
+| 📅 [**Sahti**](https://github.com/djalilhalisse/Sahti_v2) | Medical appointment booking platform with a doctor dashboard and French/Arabic support. | PHP, MySQL |
 | 📊 [**Vaccine side-effects analysis**](https://colab.research.google.com/drive/1JezSRXlb3skDY42SC8nwIc_sRXWtBl_b?usp=sharing) | Exploratory analysis and clustering of 372 patient records, with PCA and dendrogram visualisations. | Python, Pandas, scikit-learn, Seaborn |
 
 ## 🎓 Education
@@ -67,11 +67,11 @@ Also: DaVinci Resolve · Google Colab · SQL · supervised and unsupervised lear
 
 ## 🌍 Languages
 
-Arabic (native) · English (fluent) · French (intermediate)
+Arabic (native) · English (fluent) · French (fluent)
 
 ## 📫 Let's connect
 
 I'm open to opportunities in **machine learning, data analysis and software development**, as well as video editing work.
 
-🌐 **Portfolio:** *add your portfolio link here*
+🌐 **Portfolio:** [(djalilhalisse.github.io/portfolio/)](https://djalilhalisse.github.io/portfolio/)
 💼 [LinkedIn](https://www.linkedin.com/in/abdeldjalil-halisse) · ✉️ [djalilhalisse@gmail.com](mailto:djalilhalisse@gmail.com)
