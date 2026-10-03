@@ -23,8 +23,27 @@ Alongside engineering, I've worked as a **freelance video editor since 2021** wi
 
 ## 🛠️ Skills
 
+**Data & machine learning**
+ 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=dark" alt="python,mysql,pandas,numpy,sklearn,matplotlib,powerbi">
+</picture>
+**Web & tools**
+ 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,html,css,js,qt,git,github,vscode&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,qt,git,github,vscode&perline=10&theme=dark" alt="php,html,css,js,qt,git,github,vscode">
+</picture>
+**Video & design**
+ 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pr,ae,ps,au&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=pr,ae,ps,au&perline=10&theme=dark" alt="pr,ae,ps,au">
+</picture>
+
 **Languages & data**
-<picture> <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=light"> <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,sklearn,matplotlib,powerbi&perline=10&theme=dark" alt="python,mysql,pandas,numpy,sklearn,matplotlib,powerbi"> </picture>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
