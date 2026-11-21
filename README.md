@@ -73,5 +73,5 @@ Arabic (native) · English (fluent) · French (fluent)
 
 I'm open to opportunities in **machine learning, data analysis and software development**, as well as video editing work.
 
-🌐 **Portfolio:** (https://djalilhalisse.is-a-dev/)
+🌐 **Portfolio:** [Portfolio](https://djalilhalisse.is-a-dev/)
 💼 [LinkedIn](https://www.linkedin.com/in/abdeldjalil-halisse) · ✉️ [djalilhalisse@gmail.com](mailto:djalilhalisse@gmail.com)
